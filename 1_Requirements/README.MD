@@ -51,8 +51,9 @@ In this project, we are developing an Auto Lock System. Alcohol sensor is interf
  
  Vs Code with Some Extensions like C/C++.
  
- **Detail Requirements
-HIGH LEVEL REQUIREMENTS**
+ **Detail Requirements**
+
+ **HIGH LEVEL REQUIREMENTS**
 
 Player Should have internet access. And should able to open any IDE like VS code, Eclipse etc….
 
