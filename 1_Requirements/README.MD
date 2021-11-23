@@ -61,6 +61,6 @@ The Simple Electronic Store Billing System was created in a simple console appli
 
 **LOW LEVEL REQUIREMENTS**
   
-   *Run it through vs code or any online c compiler
+   *Run it through Visual Studio code or any online c compiler
     
 
