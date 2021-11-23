@@ -1,47 +1,46 @@
 **INTRODUCTION**
 
-Most of these days, we hear lot of accidents due to drunken driving. Drunken drivers will not be in stable condition and so the rash driving is the inconvenience for other road users and also question of life and death for the drunken driver and for others.
+The Simple Electronic Store Billing System with Source Code is a project that can manage the billing for your electronics. The system can help you manage the transaction within your store. The purpose of the system is to help and maintain the managing of bill record.
 
 **OBJECTIVE**
 
-In this project, we are developing an Auto Lock System. Alcohol sensor is interfaced to microcontroller. While alcohol wafers smelled by the sensor. Sensor sends the input voltage to micro controller. If there are any traces of Alcohol above the set limit, then the system will lock the Engine at the same time will automatically gives a buzzer. We can avoid accidents by checking the driving people on the roads. So that we can avoid accidents.
+The Simple Electronic Store Billing System was created in a simple console application, the system can be accessed without providing any login information. The user can do a lot of task in the system in the system, he/she can generate a bill receipt. The system contains function that can manage the billing of electronics, you are only allowed to enter the quantity of an item because the item data is already inputted in the code. The receipt is automatically generated after the transaction. The Simple Electronic Store Billing System was built in as a basic coding structure of C to help beginners to understand the flow of the system.
 
 **SWOT ANALYSIS:**
 
    **STRENGTH**
 
-    *It prevents the road accidents and saves the life
-    *It is Automated operation.
+    *It is easily Accessible
     
    **WEAKNESS**
    
-    *The device should be always in on condition
+    *It Automates the bill
     
    **OPPORTUNITIES**
    
-    *It is a device which prevents Accidents
+    *It never gives opportunity for customers to bargain
     
    **THREATS**
     
-     *The device should not be off
+     *It can be crashed due to technical error
      
 **4 W's and 1 H**
 
  **WHO**
  
-   *Anyone who wants to use for safety, can use it
+   *Anyone who wants to use for stores, can use it
    
   **WHAT**
   
-   *It is a device fixed in vehicles
+   *It is a code can run for fast billing
   
   **WHEN**
   
-   *Whenever vehicle needs to go, can use it
+   *Whenever consumer needs to bill the customer, can use it
   
   **WHY**
   
-   *This project can easily help police whether the driver is drunk or not
+   *This project can easily help to Retailer shops.
    
    **HOW**
    
@@ -55,12 +54,13 @@ In this project, we are developing an Auto Lock System. Alcohol sensor is interf
 
  **HIGH LEVEL REQUIREMENTS**
 
-Player Should have internet access. And should able to open any IDE like VS code, Eclipse etc….
-
-Player should Run the code and able to access the Terminal of the preferred IDE ex: If the player open the C programme using the VS code then he should open the Terminal of VS Code.
+    *Can Generate Receipt
+    *Automate Transaction
+    *Auto Display Data
+    *Item List is Pre-coded
 
 **LOW LEVEL REQUIREMENTS**
   
-   *INSTALL it in the vehicle.
+   *Run it through vs code or any online c compiler
     
 
