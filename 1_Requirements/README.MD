@@ -65,4 +65,6 @@ The Simple Electronic Store Billing System was created in a simple console appli
     
     *  Compute the data by doing appropriate operation
     
+     *Do the operation on Total amount according to input
+    
 
