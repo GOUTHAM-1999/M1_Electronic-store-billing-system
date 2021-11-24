@@ -112,7 +112,6 @@ int a;
 	system("PAUSE");
 	system("CLS");
 	//main();
-	printf("\n\n\n\t\t\tBrought To You By code-projects.org\n\n");
 	return 0;
 	
 } 
