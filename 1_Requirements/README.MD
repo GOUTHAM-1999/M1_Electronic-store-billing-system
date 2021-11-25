@@ -54,17 +54,17 @@ The Simple Electronic Store Billing System was created in a simple console appli
 
  **HIGH LEVEL REQUIREMENTS**
 
-    *Can Generate Receipt
-    *Automate Transaction
-    *Auto Display Data
-    *Item List is Pre-coded
-
+   *HLR_01 Can Generate Receipt
+   *HLR_02 Automate Transaction
+   *HLR_03 Auto Display Data
+   *HLR_04 Item List is Pre-coded  
+   
 **LOW LEVEL REQUIREMENTS**
   
-    *  Get data from standard input
+    *LLR_01 Get data from standard input
     
-    *  Compute the data by doing appropriate operation
+    *LLR_02 Compute the data by doing appropriate operation
     
-     *Do the operation on Total amount according to input
+     *LLR_03 Do the operation on Total amount according to input
     
 
