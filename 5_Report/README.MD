@@ -94,6 +94,15 @@
 
   **LOW LEVEL REQUIREMENTS**
   
-   *LLR_01 Run it through Visual Studio code or any online c compiler
+  
+     *LLR_01 Get data from standard input
+    
+     *LLR_02 Compute the data by doing appropriate operation
+    
+     *LLR_03 Do the operation on Total amount according to input
+    
+     *LLR_04 Run it through Visual Studio code or any online c compiler
+   
+   
     
 
