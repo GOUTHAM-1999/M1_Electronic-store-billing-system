@@ -87,13 +87,13 @@
   
   **HIGH LEVEL REQUIREMENTS**
 
-    *Can Generate Receipt
-    *Automate Transaction
-    *Auto Display Data
-    *Item List is Pre-coded
+    *HLR_01 Can Generate Receipt
+    *HLR_02 Automate Transaction
+    *HLR_03 Auto Display Data
+    *HLR_04 Item List is Pre-coded
 
   **LOW LEVEL REQUIREMENTS**
   
-   *Run it through Visual Studio code or any online c compiler
+   *LLR_01 Run it through Visual Studio code or any online c compiler
     
 
