@@ -1,3 +1,6 @@
+[![static code cppcheck](https://github.com/GOUTHAM-1999/M1_Electronic_Store-Billing_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/GOUTHAM-1999/M1_Electronic_Store-Billing_System/actions/workflows/cppcheck.yml)
+
+
 # M1_Electronic_Store_Billing_system
 
  **. Folder Structure**
